@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MediaEstruturasDeDados:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/MediaEstruturasDeDados_jar2</output-path>
+    <root id="archive" name="MediaEstruturasDeDados.jar">
+      <element id="module-output" name="MediaEstruturasDeDados" />
+    </root>
+  </artifact>
+</component>
