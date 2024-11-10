@@ -53,7 +53,7 @@ public class Main {
         activitiesGrades[6] = sc.nextDouble();
         System.out.print("\033[1mTDE 4: \033[0m");
         activitiesGrades[7] = sc.nextDouble();
-        raGrades[3] = raScore(activitiesGrades[6], activitiesGrades[6]);
+        raGrades[3] = raScore(activitiesGrades[6], activitiesGrades[7]);
         System.out.printf("\033[1;38;5;210mMédia RA4: %.2f\033[0m\n", raGrades[3]);
         System.out.println("\033[1m-------------------\033[0m");
 
